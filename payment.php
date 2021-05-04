@@ -1,0 +1,4 @@
+<div>
+<h3 align="center">Pay now with Paypal</h3>
+<p style="text-align:center;"><img src="paypal.png" width="200" height="150"/></p>
+</div>
